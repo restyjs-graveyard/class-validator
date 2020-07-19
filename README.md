@@ -17,5 +17,4 @@
       } catch (error) {
         throw new ValidationError(error);
       }
-      break;
 ```
